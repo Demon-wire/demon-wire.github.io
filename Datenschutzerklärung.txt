@@ -1,0 +1,26 @@
+Privacy Policy for VaultFlow+                                                                               
+                                                                                                              
+  Last updated: April 18, 2026
+                                                                                                              
+  Data Collection
+  VaultFlow+ does not collect personal data. All financial data is stored exclusively on your device.         
+                  
+  AI Features
+  VaultFlow+ includes an AI assistant for budget suggestions and financial tips. When using AI features,
+  anonymized financial data (categories and amounts only, no personal information) is sent to Anthropic's     
+  Claude API for processing. This data is not stored permanently. For more information, see Anthropic's
+  Privacy Policy at https://www.anthropic.com/privacy.                                                        
+                  
+  Third-Party Services                                                                                        
+  VaultFlow+ uses Google AdMob to display advertisements. AdMob may collect device identifiers and usage data
+  to serve personalized ads. See Google's Privacy Policy at https://policies.google.com/privacy.              
+                  
+  Data Storage                                                                                                
+  All app data is stored locally on your device. We have no access to your personal financial data.
+
+  Changes to This Policy
+  We may update this Privacy Policy from time to time. Changes will be posted on this page.
+
+  Contact                                                                                                     
+  For questions about this Privacy Policy, contact us at:
+  alexander.madritsch@gmx.at
